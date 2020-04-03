@@ -1,0 +1,49 @@
+section {
+  border: 1px solid;
+  width: 350px;
+  padding: 10px;
+}
+
+h2 {
+  background-color: #95a4a5;
+  color: #fff;
+  text-align: center;
+  line-height: 2.5;
+  margin: -10px;
+  margin-bottom: 0;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+div {
+  text-align: center;
+  font-size: 15px;
+  margin: 10px 0;
+  }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 3px 0;
+  text-align: center;
+}
+
+strong {
+  font-size: 20px;
+}
+
+.button-comprar {
+  background-color: rgb(202, 198, 202);
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  width: 280px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.mutacoes {
+  padding: 80px 0;
+}
+
+

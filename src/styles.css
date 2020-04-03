@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 14px;
+}
+
+header {
+  height: 47px;
+  border-bottom: 1px solid #ccc;
+}
+
+.logo-nav {
+  margin-top: 4px;
+  width: 150px;
+  height: 40px;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
